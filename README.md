@@ -1,5 +1,5 @@
-# pycascades-2026
-The static website for 2026.pycascades.com built with Lektor
+# pycascades-2027
+The static website for 2027.pycascades.com built with Lektor
 
 # Setup
 1. Clone this repo somewhere on your machine
