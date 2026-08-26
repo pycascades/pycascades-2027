@@ -55,7 +55,7 @@ new page to be the child of. For example, to add a new page under the "about" se
 1. Navigate to `http://127.0.0.1:5000/about/the-team`
 2. Click the pencil icon on the top right corner
 3. Click `Add Page` in the `Page Actions` on the left side of the screen
-4. Set your title, and ID
+4. Set the title to your name (ID should auto-generate)
     - Note: you cannot choose a model here, because it is automatically selected to be a `organizer`
     model, because the `the-team` page uses the `the-team` model, which specifies that child pages use the
     `organizer` model.
