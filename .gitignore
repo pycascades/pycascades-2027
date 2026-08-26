@@ -1,10 +1,11 @@
-pycascades-2026_speakers.json
-pycascades-2026_sessions.json
+pycascades-*_speakers.json
+pycascades-*_sessions.json
 .python-version
 .DS_Store
 .idea/
 .venv
 .env
+.vscode
 
 __pycache__
 .pytest_cache
