@@ -154,6 +154,9 @@ img:hover {
 .cfp a:hover {
     text-decoration: none;
     background: #000000;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 3px 15px;
 }
 
 .cta {
