@@ -136,6 +136,14 @@ img:hover {
     fill: red;
 }
 
+.cfp {
+    font-size: 36px;
+}
+
+.cfp-link {
+    background: white;
+}
+
 .cta {
     font-size: 36px;
     padding-top: -10px;
