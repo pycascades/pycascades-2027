@@ -143,11 +143,12 @@ img:hover {
 .cfp-link {
     background: white;
     display: inline-block;
+    text-decoration: none;
     border-radius: 20px;
     padding: 3px 15px;
 }
 
-.cfp a{
+.cfp a:link, a:visited, a:active{
     text-decoration: none;
 }
 
