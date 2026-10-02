@@ -154,8 +154,7 @@ img:hover {
 
 .cfp a:hover {
     text-decoration: none;
-    font-color: #000000;
-    font-weight: bold;
+    text-transform: uppercase;
   /*
     background: #000000;
     display: inline-block;
