@@ -2,7 +2,7 @@ _model: page
 ---
 title: Grants
 ---
-show_in_menu: no
+show_in_menu: yes
 ---
 body:
 
@@ -12,19 +12,23 @@ Our grants program is an important tool that helps us realize a goal of creating
 
 Grants recipients for in-person tickets can have some part of their expenses (which can include travel, hotel, registration, etc) paid from PyCascades's budget. Remote attendee grant recipients can have their ticket price covered and speakers can have AV needs paid for. We actively encourage people to apply for these grants.
 
-Our grants program prioritizes people with relatively low income, speakers, sprint coordinators, active builders of Python community, and notable open source contributors. However, anyone who would be financially burdened by attending PyCascades is welcome to apply.
+Our grants program prioritizes people with relatively low income, speakers, sprint coordinators, active builders of the Python community, and notable open source contributors. However, anyone who would be financially burdened by attending PyCascades is welcome to apply.
 
 Note: applicants are not guaranteed the full amount that they apply for. We allocate funds as fairly as we can across approved applicants and within the budget we are allowed.
 
 ## Timeline
 
-Coming soon...
+Open Tickets & Grants Request: October 26, 2026
 
 ## Apply
 
-The grants application period has closed. If you have any questions, feel free to reach out to our financial aid team at [grants@pycascades.com](mailto:grants@pycascades.com).
+The grants application period has not yet started. If you have any questions, feel free to reach out to our financial aid team at [grants@pycascades.com](mailto:grants@pycascades.com).
+
 
 ## FAQ
+
+### Q: How much can I receive?
+A: We are disbursing a maximum fixed amount of up to $500 USD.
 
 ### Q: What kind of costs are covered by the PyCascades Grant award?
 A: The costs covered by the Grant award may include some or all of the below:
@@ -44,8 +48,8 @@ The following costs are not covered by the grant:
 * On-board/Airport/Hotel WiFi Charges
 * Cellular roaming/international charges
 
-### Q: What if I need help with a visitor visa to Canada?
-A: We can provide you with a [Letter of Invitation](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html) upon request, in support of an application for a visitor visa. It confirms that as a registered delegate you are invited to attend PyCascades by the Python Software Foundation (PSF) and the PyCascades 2026 committee.
+### Q: What if I need help with a visitor visa to the USA?
+At this time, we are unable to help with US visitor visas.
 
 ### Q: What if I don’t come to PyCascades?
 A: If you do not register and attend PyCascades, you will not receive your grant. Please notify the Grants Committee that you cannot attend.
