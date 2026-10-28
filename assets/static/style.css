@@ -136,6 +136,27 @@ img:hover {
     fill: red;
 }
 
+.tickets {
+    font-size: 24px;
+}
+
+.tickets-link {
+    background: white;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 3px 15px;
+}
+
+.tickets a:link, a:visited, a:active{
+    text-decoration: none;
+}
+
+.tickets a:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .cfp {
     font-size: 36px;
 }
