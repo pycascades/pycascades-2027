@@ -2,7 +2,7 @@ _model: page
 ---
 title: Sprints
 ---
-show_in_menu: no
+show_in_menu: yes
 ---
 _hidden: yes
 ---
@@ -15,11 +15,10 @@ hidden: True
 ----
 body:
 
-Monday, March. 22nd, 9am - 5pm PST
+Date: Monday, March. 22nd, 9am - 5pm PST
+Address: pending
 
-555 Robson Street, 3rd Floor, Vancouver, BC, V6B 1A6
-
-This year at PyCascades, we are offering in-person sprints, hosted at a nearby office.
+This year at PyCascades, we are offering in-person sprints, hosted at a nearby location.
 
 _note: Sprints are free, but due to venue capacity, it is a ticketed event. You can add a sprints ticket to your PyCascades registration at no additional cost_
 #### markdown ####
@@ -36,7 +35,10 @@ The mentored sprints at PyCascades focus on providing developers of all experien
 
 Furthermore, it serves as an excellent opportunity for open source projects to get some practical advice around inclusion and how to serve a global and diverse pool of contributors, and even establish longer-term mentor-mentee or contributor relationships.
 
-If you have an open source project and would like to participate, please contact us at sprints@pycascades.com.
+If you have an open source project and would like to participate, please fill our our application form or contact us at sprints@pycascades.com.
+
+Sprints Projects Application form
+* https://forms.gle/pd2aeY6u762xKq3X7
 #### markdown ####
 title: FAQs
 ----
@@ -47,11 +49,14 @@ body:
 Q: I am new to Python or have never contributed to an open source project, is this an event for me?
 A: Definitely! We will have mentors and helpers at hand to support you through your open source contributions.
 
+Q: How do I apply to have my project featured on Sprints day?
+A: Fill out our form here! https://forms.gle/pd2aeY6u762xKq3X7
+
 Q: Do I have to contribute code?
 A: Coding is not the only way in which you can contribute to an Open Source project, there are many ways in which you can help. For example, you can help writing or improving documentation, helping design a new logo, improving a project's website or help triage open issues or review other's contributions.
 
 Q: What will I need on the day?
-A: You will need a laptop along with access to PyCascades Venueless and Slack. We have also prepared some handy guides for you to get the basics of your development environment up and running: Resources for Contributors
+A: You will need a laptop along with access to PyCascades Venueless and Slack. We have also prepared some handy guides for you to get the basics of your development environment up and running: Resources for Contributors 
 
 Q: I would like to mentor or help on the day. Do I have to be a project maintainer?
 A: Not necessarily, you can mentor others if you've got some open source experience. We are also always looking for helpers on the git desk to help with those pesky git issues such as merge conflicts and the occasional scary rebasing.
