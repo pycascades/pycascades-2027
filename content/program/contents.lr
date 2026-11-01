@@ -9,3 +9,5 @@ _hidden: no
 body: Coming soon!
 ---
 show_in_menu: yes
+---
+sort_index: 3

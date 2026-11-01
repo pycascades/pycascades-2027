@@ -4,14 +4,14 @@ title: Sprints
 ---
 show_in_menu: yes
 ---
-_hidden: yes
+_hidden: no
 ---
 content:
 
 #### markdown ####
 title: When and Where
 ----
-hidden: True
+hidden: no
 ----
 body:
 
@@ -24,7 +24,7 @@ _note: Sprints are free, but due to venue capacity, it is a ticketed event. You 
 #### markdown ####
 title: About Sprints
 ----
-hidden: False
+hidden: no
 ----
 body:
 
@@ -42,7 +42,7 @@ Sprints Projects Application form
 #### markdown ####
 title: FAQs
 ----
-hidden: False
+hidden: no
 ----
 body:
 
@@ -64,4 +64,4 @@ A: Not necessarily, you can mentor others if you've got some open source experie
 Q: Do you have a Code of Conduct?
 A: Yes, the PyCascades Code of Conduct applies to the sprints.
 ---
-sort_index: 3
+sort_index: 5
