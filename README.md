@@ -3,7 +3,7 @@ The static website for 2027.pycascades.com built with Lektor
 
 # Setup
 1. Clone this repo somewhere on your machine
-2. Install Python, [pipx](https://pipx.pypa.io/latest/installation/), and [Just](https://just.systems/man/en/)
+2. Install Python, [pipx](https://pipx.pypa.io/latest/how-to/install-pipx.html), and [Just](https://just.systems/man/en/)
 3. Install Lektor: `just install`
     - Lektor uses `imagemagick`, you'll need to install this as well
 4. Start the dev server with `just up`
