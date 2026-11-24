@@ -17,7 +17,7 @@ Lektor==3.3.12
 MarkupSafe==3.0.2
 mistune==0.8.4
 packaging==25.0
-playwright==1.55.0
+playwright==1.65.1
 pluggy==1.6.0
 pyee==13.0.0
 Pygments==2.19.2
